@@ -1,0 +1,18 @@
+# Ignore venv directories
+venv/
+env/
+.venv/
+
+# Ignore venv files
+.env
+.venv
+.env.*
+
+#ignore the web.config file
+web.config
+
+#ignore the wsgi.log file
+wsgi.log
+
+#ignore pycache
+__pycache__/
